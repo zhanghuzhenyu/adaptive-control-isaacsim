@@ -13,8 +13,6 @@ wmm-isaac-sim/
 │   ├── wmm_simple_isaacsim.py   # Simplified controller (baseline)
 │   ├── wmm_blf_isaacsim.py      # BLF controller with error bounds
 │   └── wmm_isaacsim.py          # Adaptive RBF-NN controller
-├── lib/
-│   └── simulate_wmm_python.py   # Kinematics, dynamics, trajectory helpers
 ├── robot/
 │   ├── urdf/                    # URDF + STL meshes
 │   └── usd/                     # USD scene files for Isaac Sim
