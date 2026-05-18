@@ -3,8 +3,6 @@
 Controllers for a 4-DOF wheeled mobile manipulator (WMM) in NVIDIA Isaac Sim 5.0.  
 Two control laws are implemented and compared: a simplified baseline and a Barrier Lyapunov Function (BLF) variant that enforces hard tracking-error bounds.
 
-Full theory, model derivation, and experimental results: **[docs/WMM_Controller_Report.md](docs/WMM_Controller_Report.md)**
-
 ---
 
 ## Repository structure
